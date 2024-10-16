@@ -1,4 +1,4 @@
-# Built a clone of Amazon using only HTML and CSS
+# Built a UI clone of Amazon using only HTML and CSS
 
 ## HTML
 
